@@ -1,0 +1,3 @@
+# Binaries produced by `go build`
+/chain
+/chain.exe
